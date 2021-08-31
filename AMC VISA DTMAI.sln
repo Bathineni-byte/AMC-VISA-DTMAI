@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMC VISA DTMAI", "AMC VISA DTMAI\AMC VISA DTMAI.csproj", "{05069130-726E-4AC2-8058-6B37D97402A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI API", "CAI API\CAI API.csproj", "{74EEBDAD-BD90-49DA-9439-AF7F6CC177BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05069130-726E-4AC2-8058-6B37D97402A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05069130-726E-4AC2-8058-6B37D97402A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05069130-726E-4AC2-8058-6B37D97402A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05069130-726E-4AC2-8058-6B37D97402A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EEBDAD-BD90-49DA-9439-AF7F6CC177BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EEBDAD-BD90-49DA-9439-AF7F6CC177BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EEBDAD-BD90-49DA-9439-AF7F6CC177BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EEBDAD-BD90-49DA-9439-AF7F6CC177BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D6EF2D-F831-42B1-AB08-5C314B7E8885}
+	EndGlobalSection
+EndGlobal
